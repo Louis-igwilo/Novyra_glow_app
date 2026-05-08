@@ -4,5 +4,5 @@ export default function Ai_coach(){
         <View>
             <Text>Ai coach screen</Text>
         </View>
-    )
+    );
 }
